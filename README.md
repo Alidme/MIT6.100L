@@ -2,3 +2,10 @@
 感谢MIT(麻省理工学院)对此课程资源的公开与[simviso-知秋](https://www.simtoco.com/#/home)的[中文精翻](https://www.bilibili.com/video/BV1WE421V7bL/?spm_id_from=333.1387.homepage.video_card.click&vd_source=3181deb7fb0c10621dd8dbdf8ab90a04)！
 
 Special thanks to Massachusetts Institute of Technology for making the course resources publicly available and to simviso-知秋 for the detailed Chinese translation!
+
+## [课程链接 Course Link](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/material-by-lecture/)
+
+
+
+## 附加 Additional
+(1) lecture06_finger_excise_solution's [下载链接 Download Link](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/resources/mit6_100l_f22_ex06_sol_pdf/)
