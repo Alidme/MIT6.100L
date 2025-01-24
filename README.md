@@ -6,9 +6,9 @@ Special thanks to Massachusetts Institute of Technology for making the course re
 ## [课程链接 Course Link](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/material-by-lecture/)
 
 ## 关于[中文精翻](https://www.bilibili.com/video/BV1WE421V7bL/?spm_id_from=333.1387.homepage.video_card.click&vd_source=3181deb7fb0c10621dd8dbdf8ab90a04)的说明
-此中文精翻由[simviso组织](https://www.simtoco.com/#/home)提供，虽然B站也有其他up主已经完成的ai翻译版本，但是翻译的人本身如果没有相关领域的知识，或者只是一味着使用ai翻译(我想大家见过诸如gpt中文配音或者xx账号会更新多个专业的公开课的视频)，那么在学习的过程中，学习的人本身无法分辨出错误所在，那么就像计算机里浮点数的相加(比如lecture5里，十个0.1相加最后的结果不等于1.0)，最后导致的误差也许就导致未来某一天，问题爆发出来(听起来有点危言耸听是吧哈哈哈哈哈哈哈)
+我为什么选这个版本的中文翻译？ 此中文精翻由[simviso组织](https://www.simtoco.com/#/home)提供，虽然B站也有其他up主已经完成的ai翻译版本，但是翻译的人本身如果没有相关领域的知识，或者只是一味着使用ai翻译(我想大家见过诸如gpt中文配音或者xx账号会更新多个专业的公开课的视频)，那么在学习的过程中，学习的人本身无法分辨出错误所在，那么就像计算机里浮点数的相加(比如lecture5里，十个0.1相加最后的结果不等于1.0)，最后导致的误差也许就在未来某一天爆发出来(听起来有点危言耸听是吧哈哈哈哈哈哈哈)
 
-言归正传，此翻译版本前五集在B站全部放出，只需每集下方评论区打卡，加入新手群(欢迎一起来交流啊)后，找群主获取网站(网站提供双语版，且字幕不再遮蔽视频)激活码就好，之后也欢迎在B站后面的视频评论区打卡互相看看学习进度。
+言归正传，此翻译版本前五集在B站全部放出，只需每集下方评论区打卡，加入新手群(欢迎一起来交流啊)后，找群主获取网站激活码(网站提供双语版，且字幕不再遮蔽视频)就好，之后也欢迎在B站后面的视频评论区打卡互相看看学习进度。
 
 PS：引用译者的一句话“免费白嫖的翻译你都不看，后面我可要改收费了！”
 
