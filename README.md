@@ -16,7 +16,7 @@ Special thanks to Massachusetts Institute of Technology for making the course re
 
 PS：引用译者的一句话“免费白嫖的翻译你都不看，后面我可要改收费了！”
 
-（Alidme：一时白嫖一时爽，一直白嫖一直爽（），据说后面还有其他的国外公开课免费翻译计划）
+Alidme：一时白嫖一时爽，一直白嫖一直爽（），据说后面还有其他的国外公开课免费翻译计划，我目前也在参考[译者的学习路线](https://xw4pe0eed67.feishu.cn/docx/JUlZdTX4io0D3WxJPFfceSP9ngc)学习。
 
 ## 附加 Additional
 (1) lecture06_finger_excise_solution's [下载链接 Download Link](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/resources/mit6_100l_f22_ex06_sol_pdf/)
