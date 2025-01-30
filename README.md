@@ -8,6 +8,7 @@ Special thanks to Massachusetts Institute of Technology for making the course re
 ## [课程链接 Course Link](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/material-by-lecture/)
 
 ## Problem Sets 0 为官方推荐的编程环境安装指南。
+## Problem Sets 0 is the official recommended programming environment installation guide.
 
 ## 本门课的作业全在本地环境运行，课程官方皆提供有相应的答案，Problem Sets则可使用官方提供的py程序进行测试。
 
