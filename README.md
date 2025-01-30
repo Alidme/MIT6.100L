@@ -7,6 +7,8 @@ Special thanks to Massachusetts Institute of Technology for making the course re
 
 ## [课程链接 Course Link](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/material-by-lecture/)
 
+## Problem Sets 0 为官方推荐的编程环境安装指南。
+
 ## 本门课的作业全在本地环境运行，课程官方皆提供有相应的答案，Problem Sets则可使用官方提供的py程序进行测试。
 
 ## 关于[中文精翻](https://www.bilibili.com/video/BV1WE421V7bL/?spm_id_from=333.1387.homepage.video_card.click&vd_source=3181deb7fb0c10621dd8dbdf8ab90a04)的说明
