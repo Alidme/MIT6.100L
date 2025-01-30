@@ -7,6 +7,8 @@ Special thanks to Massachusetts Institute of Technology for making the course re
 
 ## [课程链接 Course Link](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/material-by-lecture/)
 
+## 本门课的作业全在本地环境运行，课程官方皆提供有相应的答案，Problem Sets则可使用官方提供的py程序进行测试。
+
 ## 关于[中文精翻](https://www.bilibili.com/video/BV1WE421V7bL/?spm_id_from=333.1387.homepage.video_card.click&vd_source=3181deb7fb0c10621dd8dbdf8ab90a04)的说明
 我为什么选这个版本的中文翻译？ 目前我正在二刷这门课程(所以Problem Sets的个人解答将逐步添加进来)，对比其他的翻译版本，这个版本的翻译会完善老师的所说的内容，并且因为是人在翻译，所以会与视频正在讲的内容，课件的内容串联起来(ai可以做到这一点，但是用ai的人会不会提示ai，或者ai会不会偷懒很难说)，译者本身也是计算机领域的大佬(有兴趣的可以自行了解一下)，所以他会补充一些想法到字幕里(会与原字幕区分开)。 
 
