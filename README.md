@@ -5,6 +5,8 @@
 
 ## [课程链接 Course Link](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/pages/material-by-lecture/)
 
+## 当前已更新至psets3，但是但是，依然希望不要你们能独立完成不要看这些个人解答(因此我放的代码仅能通过测试，思路等一概莫得)
+
 ## Problem Sets 0 为官方推荐的编程环境安装指南。
 
 ## 本门课的作业全在本地环境运行，课程官方皆提供有相应的答案，Problem Sets则可使用官方提供的py程序进行测试。
