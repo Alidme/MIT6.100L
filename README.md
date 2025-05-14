@@ -1,4 +1,4 @@
-# MIT 6.100L 2022fall (21/26)
+# MIT 6.100L 2022fall(大佬已经更新完了！感谢佬)
 感谢MIT(麻省理工学院)对此课程资源的公开与[simviso-知秋](https://www.simtoco.com/#/home)的[中文精翻](https://www.bilibili.com/video/BV1WE421V7bL/?spm_id_from=333.1387.homepage.video_card.click&vd_source=3181deb7fb0c10621dd8dbdf8ab90a04)！
 
 感谢[csdiy.wiki](https://csdiy.wiki/)的作者[@PKUFlyingPig](https://github.com/PKUFlyingPig)收录本课程时，对措辞和排版做出的指导。
